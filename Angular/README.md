@@ -19,7 +19,7 @@ Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Ca
 * NPM 9.1.2
 
 ## Como instalar
-* Baixe ou clone este repositório usando git clone `https://github.com/conceicao-peres/Start-By-Capgemini.git`
+* Baixe ou clone este repositório usando git clone `https://github.com/conceicao-peres/Start-By-Capgemini/tree/main/Angular`
 * Dentro do diretório, instale as dependências usando `npm install`.
 
 ## Como excecutar e compilar
