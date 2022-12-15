@@ -7,11 +7,11 @@ export class LoggerService {
   mensagens: string[] = []
 
   logar(mensagem: string){
-    console.log(mensagem)
+    alert(mensagem)
     this.mensagens.push(mensagem)
   }
 
   exibeTodosLogs(){
-    console.log(this.mensagens)
+    alert(this.mensagens)
   }
 }

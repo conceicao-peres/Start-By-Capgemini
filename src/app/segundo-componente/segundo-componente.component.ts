@@ -7,11 +7,13 @@ import { Component } from '@angular/core';
 })
 export class SegundoComponenteComponent {
   nome= "Conceicao"
-  nascimento= "1977-01-25"
+  git = "https://github.com/conceicao-peres"
+  linkedin = "https://www.linkedin.com/in/conceicao-peres-da-silva/"
   urlImg= "/assets/foto.jpeg"
 
-  mostrarDataNascimento() {
-    alert('A data de nascimento e:' + this.nascimento )
+  mostrarContatos() {
+    alert('Git:' + this.git)
+    alert('Linkedin:' + this.linkedin )
   }
 
 }

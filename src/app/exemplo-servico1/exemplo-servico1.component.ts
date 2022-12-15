@@ -9,6 +9,6 @@ export class ExemploServico1Component {
   nome = "";
 
   inserirNome(){
-    console.log(`Nome ${this.nome} inserido`)
+    alert(`Nome ${this.nome} inserido`)
   }
 }
