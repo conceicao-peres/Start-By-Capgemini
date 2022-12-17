@@ -1,0 +1,5 @@
+<h3>Componente-filho!</h3>
+<p> - O sobrenome veio do elemento pai: <strong>{{sobrenome}}</strong></p>
+<label for="nome"> Digite o nome: </label>
+<input type="text" id="nome" [(ngModel)]="nome">
+<button type="button" (click)="mostraNome.emit(nome + ' ' + sobrenome)">Mostrar Nome Completo</button>
