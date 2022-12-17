@@ -1,9 +1,0 @@
-.lista-produtos span{
-    border: 2px solid black;
-    background-color:blue;
-    color: aliceblue;
-}
-
-.lista-produtos .esgotado {
-    background-color: black;
-}
