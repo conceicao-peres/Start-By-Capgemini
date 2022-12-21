@@ -20,7 +20,7 @@ Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Ca
 
 ## Como instalar
 * Baixe ou clone este repositório usando git clone `https://github.com/conceicao-peres/Start-By-Capgemini/tree/main/Angular`
-* Dentro do diretório, instale as dependências usando `npm install`.
+* Dentro do diretório `/Angular/fundamentos-angular`, instale as dependências usando `npm install`.
 
 ## Como excecutar e compilar
 
