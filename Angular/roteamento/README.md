@@ -1,4 +1,4 @@
-# Roteamento de páginas com angular router
+# Roteamento entre páginas com angular router
 
 Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.0.1.
 
@@ -16,4 +16,4 @@ Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Ca
 
 ## Como excecutar e compilar
 
-Excecute `npm start` para executar a versão de desenvolvimento. Depois acesse `http://localhost:4200/`. 
+Excecute `ng serve --open`.  
