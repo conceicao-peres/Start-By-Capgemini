@@ -3,7 +3,12 @@
 Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.0.1.
 
 ## Escopo
-Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Capgemini
+Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Capgemini:
+
+* Roteamento entre páginas
+* Parâmetros de rota
+* Parâmetros de consulta
+
 
 ## Tecnologias
 * Angular CLI 15.0.1
