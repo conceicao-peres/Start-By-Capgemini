@@ -8,13 +8,14 @@ import { SegundaPaginaComponent } from './segunda-pagina/segunda-pagina.componen
 import { PaginaNaoEncontradaComponent } from './pagina-nao-encontrada/pagina-nao-encontrada.component';
 import { PaginaComParametroComponent } from './pagina-com-parametro/pagina-com-parametro.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     PrimeiraPaginaComponent,
     SegundaPaginaComponent,
     PaginaNaoEncontradaComponent,
-    PaginaComParametroComponent
+    PaginaComParametroComponent,
   ],
   imports: [
     BrowserModule,
