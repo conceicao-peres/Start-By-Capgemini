@@ -9,7 +9,8 @@ Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Ca
 * Parâmetros de rota
 * Parâmetros de consulta
 * Conceito de lazy-loading
-* Root-guard
+* Route Guards
+
 
 ## Tecnologias
 * Angular CLI 15.0.1
