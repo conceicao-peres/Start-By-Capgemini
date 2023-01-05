@@ -10,7 +10,7 @@ Projeto Angular, utilizando a abordagem SPA para os labs do programa Start By Ca
 * Parâmetros de consulta
 * Conceito de lazy-loading
 * Route Guards
-* Serviço de autenticação 
+* Serviço de autenticação (e-mail: `admin@admin.com.br`, senha: `1234`)
 
 ## Tecnologias
 * Angular CLI 15.0.1
