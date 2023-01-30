@@ -11,6 +11,8 @@
 
 * [fundamentos do angular](https://github.com/conceicao-peres/Start-By-Capgemini/tree/main/Angular/fundamentos-angular)
 * [roteamento entre página](https://github.com/conceicao-peres/Start-By-Capgemini/tree/main/Angular/roteamento)
+* [REPO Pojeto final](https://github.com/conceicao-peres/proway-computers)
+* [Deploy Projeto](https://conceicao-peres.github.io/proway-computers/)
 
 <br><br>
 <button name="button"> <a href="https://conceicao-peres.github.io/Portfolio-Conceicao" target="_blank">`Portfolio`</a></button>
