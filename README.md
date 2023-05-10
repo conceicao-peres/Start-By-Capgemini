@@ -19,6 +19,7 @@
 > Labs Java
 
 * [fundamentos do java](https://github.com/conceicao-peres/projetos_java)
+* [persistencia de dados](https://github.com/conceicao-peres/utilizando_persistencia_BD)
 
 <br><br>
 <button name="button"> <a href="https://conceicao-peres.github.io/Portfolio-Conceicao" target="_blank">`Portfolio`</a></button>
